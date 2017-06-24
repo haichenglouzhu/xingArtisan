@@ -1,7 +1,7 @@
 {
     "name": "xingzhilong/xingartisan",
     "description": "this is xingzhilong laravel package",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
