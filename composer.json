@@ -9,6 +9,11 @@
             "email": "339191949@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "XingArtisan\\Src\\": "./src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
