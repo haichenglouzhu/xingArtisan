@@ -1,7 +1,6 @@
 {
     "name": "xingzhilong/xingartisan",
     "description": "this is xingzhilong laravel package",
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
