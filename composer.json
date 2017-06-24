@@ -1,0 +1,14 @@
+{
+    "name": "xingzhilong/xingartisan",
+    "description": "this is xingzhilong laravel package",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xingzhilong",
+            "email": "339191949@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
